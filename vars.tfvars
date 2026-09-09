@@ -1,3 +1,6 @@
-GOOGLE_REGION  = "us-central1"
-GOOGLE_PROJECT = "study-504114"
-GKE_NUM_NODES  = 2
+GOOGLE_PROJECT   = "study-504114"
+GOOGLE_REGION    = "us-central1-c"
+GKE_NUM_NODES    = 2
+GKE_MACHINE_TYPE = "g1-small"
+GKE_CLUSTER_NAME = "main"
+GKE_POOL_NAME    = "main"
