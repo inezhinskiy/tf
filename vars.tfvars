@@ -1,5 +1,5 @@
 GOOGLE_PROJECT   = "study-504114"
-GOOGLE_REGION    = "us-central1-c"
+GOOGLE_REGION    = "us-east1-b"
 GKE_NUM_NODES    = 2
 GKE_MACHINE_TYPE = "g1-small"
 GKE_CLUSTER_NAME = "main"
